@@ -58,7 +58,7 @@
 			"i18n": {
 				"type": "sap.ui.model.resource.ResourceModel",
 				"settings": {
-					"bundleName": "com.jp.ui5-pwa-todo-list.i18n.i18n"
+					"bundleName": "KiranaShop-PWA.i18n.i18n"
 				}
 			}
 		},
